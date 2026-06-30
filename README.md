@@ -1,4 +1,15 @@
-## Hi there 👋
+# 👋 مرحبًا، أنا عبد الفتاح
+
+## 💻 أتعلم حاليًا
+- HTML
+- CSS
+- Git & GitHub
+
+## 🎯 هدفي
+أن أصبح مطور ويب محترف وأنشئ مشاريع مميزة.
+
+## 📫 تواصل معي
+- GitHub: @abdelfettahtamedi-hue## Hi there 👋
 
 <!--
 **abdelfettahtamedi-hue/abdelfettahtamedi-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
