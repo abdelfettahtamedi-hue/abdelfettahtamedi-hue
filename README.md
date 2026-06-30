@@ -9,7 +9,7 @@
 أن أصبح مطور ويب محترف وأنشئ مشاريع مميزة.
 
 ## 📫 تواصل معي
-- GitHub: @abdelfettahtamedi-hue## Hi there 👋
+- GitHub: @abdelfettahtamedi-hue## 
 
 <!--
 **abdelfettahtamedi-hue/abdelfettahtamedi-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
